@@ -1,3 +1,4 @@
+package SimpleLinkedList;
 class Node{
     int data;
     Node next;//java object is by default null if not allocated

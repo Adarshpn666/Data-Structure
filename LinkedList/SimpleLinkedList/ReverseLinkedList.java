@@ -1,5 +1,8 @@
+package SimpleLinkedList;
+
 import java.util.ArrayList;
 import java.util.Scanner;
+
 
 public class ReverseLinkedList {
 

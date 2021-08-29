@@ -1,3 +1,4 @@
+package SimpleLinkedList;
 
 public class SearchLinkedList {
     public static void main(String[] args) {

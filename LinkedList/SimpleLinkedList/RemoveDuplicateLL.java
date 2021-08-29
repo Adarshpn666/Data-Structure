@@ -1,3 +1,6 @@
+package SimpleLinkedList;
+
+
 import java.util.Scanner;
 
 public class RemoveDuplicateLL {
