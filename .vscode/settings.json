@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "Sorting",
         "Searching",
+        "LinkedList/DoublyLinkedList",
         "Hashing",
-        "Sorting"
+        "Stack"
     ]
 }
